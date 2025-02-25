@@ -3,7 +3,7 @@
 Building innovative machine learning models for social good and advancing my programming skills.
 
 I’m not only an AI enthusiast but also a problem-solver on platforms like LeetCode and Code360, blending coding
-# 👋 Hi, I'm Your Name!
+# 👋 Hi, I'm Bhooma Anand!!
 
 ## 🚀 About Me
 - 🎓 AI Student | CSE - AI B.Tech
