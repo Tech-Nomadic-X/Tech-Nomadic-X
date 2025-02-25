@@ -17,6 +17,6 @@ I’m not only an AI enthusiast but also a problem-solver on platforms like Leet
 - 🔹 **Tools:** Git, Docker, Linux
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bhooma-anand-b78798273/)
+- GitHub: [Your GitHub Profile](https://github.com/Tech-Nomadic-X)
 - Portfolio: [Your Portfolio (if any)](https://yourportfolio.com)
