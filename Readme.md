@@ -18,5 +18,5 @@ Building innovative machine learning models for social good and advancing my pro
 ## 📫 Connect with Me
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/bhooma-anand-b78798273/)
 - GitHub: [My GitHub Profile](https://github.com/Tech-Nomadic-X)
-- Portfolio: [My Portfolio (if any)](https://yourportfolio.com)
+- Portfolio: [My Portfolio](https://yourportfolio.com)
 
