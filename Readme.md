@@ -11,6 +11,11 @@
 - 🔹 **Languages:** Python, R, Dart, JavaScript
 - 🔹 **Frameworks:** TensorFlow, PyTorch, Flutter
 - 🔹 **Tools:** Git, Docker, Linux
+
+  ## 🚀 Projects
+- Sentiment Analysis on Product Reviews
+- Customer Segmentation using Clustering
+- Sales Data Dashboard in Excel
 - 
 🔭 I’m currently working on:
 Building innovative machine learning models for social good and advancing my programming skill
