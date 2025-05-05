@@ -27,17 +27,17 @@ I am a "B.Tech (Hons) CSE (AI)" student at "UTD CSVTU Bhilai", passionate about 
 
 ## 🚀 Projects & Highlights
 
-### 🔍 Sentiment Analysis on Product Reviews
+### 🔍 **Sentiment Analysis on Product Reviews**
 A machine learning model to classify product reviews as positive, negative, or neutral.
-- Technologies Used:** Python, NLP, Scikit-learn
+- Technologies Used: Python, NLP, Scikit-learn
 - [GitHub Repo](https://github.com/Tech-Nomadic-X/Sentiment-Analysis-Project)
 
-### 📊 Customer Segmentation using Clustering
+### 📊 **Customer Segmentation using Clustering**
 Utilized K-means clustering to segment customers based on purchasing behavior.
 - Technologies Used: Python, Scikit-learn, Pandas
 - [GitHub Repo](https://github.com/your-username/customer-segmentation)
 
-### 📈 Sales Data Dashboard
+### 📈 **Sales Data Dashboard**
 Developed a dynamic sales dashboard in Excel for real-time analysis and decision-making.
 - Technologies Used:** Excel, Data Visualization, Power Query
 - [GitHub Repo](https://github.com/your-username/sales-dashboard)
@@ -50,12 +50,9 @@ I am currently exploring:
 
 If you are working on any exciting **AI, Data Science**, or **Machine Learning** projects and are looking for a **collaborative team member**, feel free to reach out. I am open to discussing ideas, sharing knowledge, and contributing to innovative solutions!
 
-## 📈 GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&border_radius=5)
 
 ## 📢 Let's Connect!
-- **LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bhooma-anand-b78798273/)
-- **Email: razzanand97@gmail.com
-- **Portfolio: [My Portfolio](https://your-portfolio.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bhooma-anand-b78798273/)
+- **Email:** razzanand97@gmail.com
+- **Portfolio** [My Portfolio](https://your-portfolio.com)
 
