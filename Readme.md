@@ -1,6 +1,6 @@
 # Hello, I'm Bhooma Anand 👋
 
-I am a "B.Tech (Hons) CSE (AI)" student at "UTD CSVTU Bhilai", passionate about exploring **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science**. My journey in technology is driven by a deep desire to solve real-world problems through innovation and data-driven insights. I am actively looking to **collaborate**, **learn**, and **form teams** for meaningful projects that push boundaries and create impact.
+I am a "B.Tech (Hons) CSE (AI)" student at "UTD CSVTU Bhilai", passionate about exploring "Artificial Intelligence (AI)", "Machine Learning (ML)", and "Data Science". 
 
 ## 💼 About Me
 - **Academic Background:** B.Tech (Hons) CSE (AI) @ UTD CSVTU Bhilai
