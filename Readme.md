@@ -6,7 +6,7 @@ I am a "B.Tech (Hons) CSE (AI)" student at "UTD CSVTU Bhilai", passionate about 
 - **Academic Background:** B.Tech (Hons) CSE (AI) @ UTD CSVTU Bhilai
 - **Passionate about:** AI, Machine Learning, Data Science, and Open Source
 - **Core Strengths:** Problem-solving, critical thinking, and creative collaboration
-- **Soft Skills:** Communication, Teamwork, Adaptability, Time Management, Leadership
+- **Interpersonal Skills:** Rapport Building, Teamwork, Adaptability, Persuasiveness, Resilience
 - **Looking for:** Collaborative projects and opportunities to form teams for innovative solutions
 
 ## ⚙️ Skills & Technologies
