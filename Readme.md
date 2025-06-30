@@ -80,7 +80,3 @@ Excel dashboard with Power Query for sales insight and reporting.
 
 ---
 
-## 💬 Random Dev Quote
-
-> “First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.”  
-> — *George Carrette*
