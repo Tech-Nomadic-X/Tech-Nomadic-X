@@ -1,22 +1,20 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=435&lines=Hello%2C+I'm+Bhooma+Anand+%F0%9F%91%8B;AI+%7C+ML+%7C+DS+Enthusiast;Let's+build+something+amazing+!" />
 </p>
 
 ---
 
-## 🧠 About Me
+# Hello, I'm Bhooma Anand 👋
 
-🎓 I am a **B.Tech (Hons)** student in **CSE (AI)** at **UTD CSVTU Bhilai**  
-🔬 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
-🌱 I love learning, building projects, and contributing to open source.
+I am a "B.Tech (Hons) CSE (AI)" student at "UTD CSVTU Bhilai", passionate about exploring "Artificial Intelligence (AI)", "Machine Learning (ML)", and "Data Science". 
 
----
-
-## 💼 Professional Snapshot
-
-- 🔍 **Looking for:** Real-world projects, research teams, or hackathons
-- 💡 **Strengths:** Critical thinking, problem solving, team leadership
-- 🤝 **Collaboration:** Always open to new ideas and connections!
+## 💼 About Me
+- **Academic Background:** B.Tech (Hons) CSE (AI) @ UTD CSVTU Bhilai
+- **Passionate about:** AI, Machine Learning, Data Science, and Open Source
+- **Core Strengths:** Problem-solving, critical thinking, and creative collaboration
+- **Interpersonal Skills:** Rapport Building, Teamwork, Adaptability, Persuasiveness, Resilience
+- **Looking for:** Collaborative projects and opportunities to form teams for innovative solutions
 
 ---
 
@@ -41,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Tech-Nomadic-X&show_icons=true&theme=tokyonight" alt="Bhooma Anand's GitHub Stats" /> | <img src="https://streak-stats.demolab.com?user=Tech-Nomadic-X&theme=tokyonight" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Tech-Nomadic-X&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> | <img src="https://streak-stats.demolab.com?user=Tech-Nomadic-X&theme=tokyonight" alt="GitHub Streak" /> |
 |---|---|
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Nomadic-X&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -58,25 +56,55 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 Sentiment Analysis on Product Reviews
-Classify product reviews as positive, negative, or neutral using ML.
-[🔗 GitHub Repo](https://github.com/Tech-Nomadic-X/Sentiment-Analysis-Project)
+### 🛒 E-Commerce Product Recommendation System  
+Built a smart e-commerce product recommendation tool using cosine similarity and Streamlit.  
+[🔗 GitHub Repo](https://github.com/Tech-Nomadic-X/ecommerce-recommender)
 
-### 📊 Customer Segmentation using Clustering
-Used K-Means to identify customer personas from buying behavior.
-[🔗 GitHub Repo](https://github.com/your-username/customer-segmentation)
+### 🧠 AI Quiz Game (Adaptive + NLP)  
+An AI-powered quiz game with NLP, countdown timer, and leaderboard.  
+[🔗 GitHub Repo](https://github.com/Tech-Nomadic-X/ai-quiz-game)
 
-### 📈 Sales Data Dashboard
-Excel dashboard with Power Query for sales insight and reporting.
-[🔗 GitHub Repo](https://github.com/your-username/sales-dashboard)
+### 🎯 Internship Domain Recommender  
+ML model recommending internship domains based on student profile inputs.  
+[🔗 GitHub Repo](https://github.com/Tech-Nomadic-X/internship-recommender)
 
 ---
 
-## 📫 Let's Connect
+## 🧠 Currently Learning
+
+- 📊 Deep learning models for tabular data (e.g., TabNet, CatBoost)
+- 🌐 Building end-to-end ML web apps with Streamlit + Flask
+- ☁️ Google Cloud Vertex AI & GenAI tools
+
+---
+
+## 📌 Pinned Repositories
+
+[![E-Commerce Recommender](https://img.shields.io/badge/-E--Commerce%20Recommender-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tech-Nomadic-X/ecommerce-recommender)
+[![AI Quiz Game](https://img.shields.io/badge/-AI%20Quiz%20Game-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tech-Nomadic-X/ai-quiz-game)
+[![Internship Recommender](https://img.shields.io/badge/-Internship%20Recommender-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tech-Nomadic-X/internship-recommender)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Tech-Nomadic-X&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🎯 Fun Facts
+
+- 💻 I prefer Linux over Windows for development
+- ☕ Coffee keeps me coding
+- 🎵 I enjoy lo-fi music while working on AI projects
+- 🚀 I believe in learning by building
+
+---
+
+## 📢 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhooma-anand-b78798273/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razzanand97@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 ---
-
