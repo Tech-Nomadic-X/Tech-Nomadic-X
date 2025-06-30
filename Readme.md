@@ -88,7 +88,8 @@ ML model recommending internship domains based on student profile inputs.
 
 ## 📈 GitHub Activity Graph
 
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Tech-Nomadic-X&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tech-Nomadic-X&theme=tokyo-night&area=true)](https://github.com/Tech-Nomadic-X)
+
 
 ---
 
