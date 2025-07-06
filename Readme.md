@@ -102,6 +102,10 @@ ML model recommending internship domains based on student profile inputs.
 
 ---
 
+👉 [View My Gist Portfolio](https://gist.github.com/Tech-Nomadic-X/a832d391dcb0d3e99d501c519b5f50bd)
+
+---
+
 ## 📢 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhooma-anand-b78798273/)
